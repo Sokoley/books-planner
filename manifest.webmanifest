@@ -1,0 +1,17 @@
+{
+  "name": "Планировщик чтения",
+  "short_name": "Чтение",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4e7e4",
+  "theme_color": "#f4e7e4",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
